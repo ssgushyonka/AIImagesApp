@@ -12,7 +12,6 @@ class APIService {
         self.apiSecretKey = secret
         print("Введены api ключи.")
     }
-     //let apiKey = "E5D0AABD6EB76ADDE0A8574037752B0E"
      let baseURL = "https://api-key.fusionbrain.ai/key/api/v1"
     
     
